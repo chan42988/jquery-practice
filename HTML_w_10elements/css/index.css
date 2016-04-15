@@ -1,0 +1,14 @@
+#block {
+  background-color: #bca;
+  width: 100px;
+  border: 1px solid green;
+}
+
+#box {
+  position: absolute;
+  background-color: #abc;
+  left: 50px;
+  width: 90px;
+  height: 90px;
+  margin: 5px;
+}
